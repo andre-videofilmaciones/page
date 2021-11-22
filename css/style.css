@@ -986,7 +986,7 @@ a:focus {
 .footer .footer-social a i {
     margin-right: 15px;
     font-size: 18px;
-    color: #F1BC59;
+    color: #999999;
 }
 
 .footer .footer-social a:last-child i {
@@ -994,7 +994,7 @@ a:focus {
 }
 
 .footer .footer-social a:hover i {
-    color: #999999;
+    color: #F1BC59;
 }
 
 .footer .footer-newsletter .form {
